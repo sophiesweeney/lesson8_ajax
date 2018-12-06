@@ -4,21 +4,22 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 06, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sophie Sweeney)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Built an application that uses an API, Ajax, and JSON-formatted
+Data.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to build an application using a program interface
+2. How to parse JSON data from a HTTP response message
+3. Use Ajax methods
+4. How to send an HTTP request nd receive an HTTP response
+5. How to register for an API key
